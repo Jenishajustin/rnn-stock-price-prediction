@@ -122,13 +122,13 @@ plt.show()
 
 ### True Stock Price, Predicted Stock Price vs time
 
-![Screenshot 2024-03-30 113651](https://github.com/Jenishajustin/rnn-stock-price-prediction/assets/119405070/87bcd2ec-a03a-416b-8971-1e230a0315c1)
+<img src="https://github.com/Jenishajustin/rnn-stock-price-prediction/assets/119405070/87bcd2ec-a03a-416b-8971-1e230a0315c1" height=400 width=700>
 
 
 ### Mean Square Error
-![Screenshot 2024-03-30 114840](https://github.com/Jenishajustin/rnn-stock-price-prediction/assets/119405070/fee89bed-eedf-4de2-a468-8465d65a20d6)
+<img src="https://github.com/Jenishajustin/rnn-stock-price-prediction/assets/119405070/fee89bed-eedf-4de2-a468-8465d65a20d6" height=400 width=700>
 
-![Screenshot 2024-03-30 113627](https://github.com/Jenishajustin/rnn-stock-price-prediction/assets/119405070/c8b2ce85-ddb5-46aa-8bfc-7fab83c5343b)
+<img src="https://github.com/Jenishajustin/rnn-stock-price-prediction/assets/119405070/c8b2ce85-ddb5-46aa-8bfc-7fab83c5343b" height=400 width=700>
 
 
 ## Result
